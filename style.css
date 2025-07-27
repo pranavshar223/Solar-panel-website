@@ -35,8 +35,10 @@
 #nev1detail {
   background-color: #447d9b;
   padding:  3px;
-  border-radius: 15px;
+  border-radius: 8px;
   color: #f8f9fa;
+  text-decoration: solid;
+  
 }
 .navbar-nav .nav-link:hover {
   border-radius: 9px;
